@@ -1,4 +1,4 @@
-# Campus Vibe 🎓📢
+# Campus Vibe 
 
 Campus Vibe is a smart digital notice board system designed to simplify communication between colleges and students by automatically extracting and organizing information from official college emails.
 
